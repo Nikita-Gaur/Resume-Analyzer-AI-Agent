@@ -20,3 +20,10 @@ Python | Streamlit | PyPDF | OpenAI API | NLP | LLM
 ## How It Works
 
 Resume PDF → Text Extraction → Job Description Comparison → Skill Analysis → Match Score → Recommendations
+
+## Output / Demo
+
+The application analyzes the uploaded resume against the job description and provides a job-match score, matched skills, missing skills, skill gaps, and recommendations.
+
+![Resume Analyzer Output]
+(resume-analyzer-output.png)
